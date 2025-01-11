@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ManageList/static/css/main.21228996.css",
+    "main.js": "/ManageList/static/js/main.665b24fe.js",
+    "index.html": "/ManageList/index.html",
+    "main.21228996.css.map": "/ManageList/static/css/main.21228996.css.map",
+    "main.665b24fe.js.map": "/ManageList/static/js/main.665b24fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21228996.css",
+    "static/js/main.665b24fe.js"
+  ]
+}
